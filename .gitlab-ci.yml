@@ -3,4 +3,4 @@ stages:
 
 job1:
   stage: build
-  script: exit 2
+  script: exit 0
