@@ -3,4 +3,4 @@ stages:
 
 job1:
   stage: build
-  script: echo 1
+  script: exit 1
